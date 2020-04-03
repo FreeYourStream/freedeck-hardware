@@ -4,7 +4,7 @@
 
 ## Description
 The FreeDeck aims to be a Free/OpenSource replacement for Elgatos Streamdeck and similar.
-It works by creating a config file with the FreeDeck [Configurator](http://freedeck.gosewis.chb), loading it onto an SDCard and inserting it into the FreeDeck. You don't need to install any software and can use it across reboots on Windows, Linux and MacOS. This was my main reason behind this gadget.
+It works by creating a config file with the FreeDeck [Configurator](http://freedeck.gosewis.ch), loading it onto an SDCard and inserting it into the FreeDeck. You don't need to install any software and can use it across reboots on Windows, Linux and MacOS. This was my main reason behind this gadget.
 This prototype is made from:
 - Perfboard
 - Arduino Pro Micro (32u4 16mhz 5v)
