@@ -14,6 +14,7 @@ This prototype is made from:
 - SPI-SDcard Reader
 
 The Arduino Code can be found [here](https://github.com/koriwi/freedeck-ino)
+
 The Configurator Repo can be found [here](https://www.youtube.com/watch?v=_TcliiU2K48)
 
 
