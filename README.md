@@ -15,7 +15,7 @@ This prototype is made from:
 
 The Arduino Code can be found [here](https://github.com/koriwi/freedeck-ino)
 
-The Configurator Repo can be found [here](https://www.youtube.com/watch?v=_TcliiU2K48)
+The Configurator Repo can be found [here](https://github.com/koriwi/freedeck-configurator)
 
 
 ![Image of first FreeDeck Prototype](http://freedeck.gosewis.ch/prototype1.jpg)
