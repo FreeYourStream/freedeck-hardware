@@ -1,0 +1,73 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=freedeck 3x2
+*Date=00:41:07
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;75.4379;-42.4382;0;Bottom;Via20
+2;;;40.6907;-15.6158;0;Bottom;Via4
+3;;;43.5543;-43.7175;0;Bottom;OLED2
+4;;;62.0267;-16.5302;0;Bottom;Via2
+5;;;50.1395;-50.9726;0;Bottom;Via35
+6;;;71.5045;-43.7175;0;Bottom;OLED3
+7;;;97.0191;-48.8681;-90;Bottom;SD Reader
+8;;;47.3963;-21.1022;0;Bottom;Via3
+9;;;12.0396;-37.5614;0;Bottom;Via1
+10;;;51.6635;-50.9726;0;Bottom;Via39
+11;;;58.3691;-48.839;0;Bottom;Via37
+12;;;62.0267;-8.91021;0;Bottom;Via30
+13;;;60.5027;-50.9726;0;Bottom;Via15
+14;;;88.8491;-40.3046;0;Bottom;Via23
+15;;;45.5675;-36.647;0;Bottom;Via27
+16;;tactile-switch-1101ne;71.2401;-38.1118;90;Top;S3
+17;;;26.6699;-29.3318;0;Bottom;Via25
+18;;tactile-switch-1101ne;71.2401;-10.1826;90;Top;S6
+19;;;15.6044;-15.7676;0;Bottom;OLED4
+20;;;62.9411;-10.4342;0;Bottom;Via22
+21;;;66.2939;-25.0646;0;Bottom;Via38
+22;;tactile-switch-1101ne;15.3402;-38.1325;90;Top;S1
+23;;;71.5045;-15.7676;0;Bottom;OLED6
+24;;tactile-switch-1101ne;43.2902;-38.1118;90;Top;S2
+25;;;56.2355;-49.4486;0;Bottom;Via33
+26;;;62.0267;-15.0062;0;Bottom;Via41
+27;;;95.2499;-36.0374;0;Bottom;Via10
+28;;;57.7595;-10.1294;0;Bottom;Via13
+29;;;58.9787;-31.4654;0;Bottom;Via5
+30;;;47.0915;-11.3486;0;Bottom;Via12
+31;;;43.4339;-49.4486;0;Bottom;Via18
+32;;;80.6195;-31.1606;0;Bottom;Via19
+33;;;102.565;-15.311;0;Bottom;Via9
+34;;;60.1979;-39.9998;0;Bottom;Via24
+35;;;44.0435;-10.1294;0;Bottom;Via29
+36;;;56.2355;-16.835;0;Bottom;Via36
+37;;;97.0494;-18.6416;0;Bottom;Pro Micro1
+38;;tactile-switch-1101ne;43.2902;-10.1826;90;Top;S5
+39;;;58.3691;-41.8286;0;Bottom;Via14
+40;;;41.9099;-14.0918;0;Bottom;Via28
+41;;;47.7011;-57.983;0;Bottom;Via16
+42;;;43.5543;-15.7676;0;Bottom;OLED5
+43;;so16;57.4195;-45.4866;90;Bottom;U1
+44;;;15.6044;-43.7175;0;Bottom;OLED1
+45;;so16;57.4195;-14.1667;90;Bottom;U2
+46;;;48.0059;-29.027;0;Bottom;Via32
+47;;;70.5611;-10.4342;0;Bottom;Via26
+48;;;80.9243;-28.4174;0;Bottom;Via21
+49;;;48.6155;-50.9726;0;Bottom;Via7
+50;;;62.6363;-41.5238;0;Bottom;Via6
+51;;;45.2627;-52.1918;0;Bottom;Via17
+52;;tactile-switch-1101ne;15.3402;-10.1927;90;Top;S4
+53;;;58.6739;-18.6638;0;Bottom;Via11
+54;;;67.5131;-11.6534;0;Bottom;Via31
+55;;;52.8827;-46.7054;0;Bottom;Via34
+56;;;56.8451;-44.5718;0;Bottom;Via40
+57;;;58.3691;-43.9622;0;Bottom;Via42
+58;;;52.8827;-45.1814;0;Bottom;Via8
