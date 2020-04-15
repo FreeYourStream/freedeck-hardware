@@ -1,7 +1,7 @@
 # FreeDeck
 ## This Repo contains all the stuff you need to build your own FreeDeck
 [Here](https://www.youtube.com/watch?v=_TcliiU2K48) is a demo video of my first prototype
-
+### [Discord Community](https://discord.gg/sEt2Rrd)
 ## Description
 The FreeDeck aims to be a Free/OpenSource replacement for Elgatos Streamdeck and similar.
 It works by creating a config file with the FreeDeck [Configurator](http://freedeck.gosewis.ch), loading it onto an SDCard and inserting it into the FreeDeck. You don't need to install any software and can use it across reboots on Windows, Linux and MacOS. This was my main reason behind this gadget.
