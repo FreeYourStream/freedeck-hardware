@@ -1,7 +1,7 @@
 # FreeDeck
 ## This Repo contains all the stuff you need to build your own FreeDeck
-[Walkthrough and tutorial](https://youtu.be/-3Zw8hbpVq4) video from Adam Welch
-[Demo Video](https://www.youtube.com/watch?v=_TcliiU2K48) of my first prototype
+- [Walkthrough and tutorial](https://youtu.be/-3Zw8hbpVq4) video from Adam Welch
+- [Demo Video](https://www.youtube.com/watch?v=_TcliiU2K48) of my first prototype
 ### [Discord Community](https://discord.gg/sEt2Rrd)
 ## Description
 The FreeDeck aims to be a Free/OpenSource replacement for Elgatos Streamdeck and similar.
