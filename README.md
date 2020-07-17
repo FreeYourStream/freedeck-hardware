@@ -20,6 +20,3 @@ The Configurator Repo can be found [here](https://github.com/koriwi/freedeck-con
 
 
 ![Image of first FreeDeck Prototype](http://freedeck.gosewis.ch/prototype1.jpg)
-
-## Circuit Diagram and Gerber files
-These files will follow soon and are not finished yet
