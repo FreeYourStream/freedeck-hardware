@@ -1,8 +1,8 @@
 # FreeDeck
 
-## Be careful when printing cases. PCB rev 1.2 has new dimensions. Most cases on thingiverse are still for rev 1.1! We are refining our new case for PCB rev 1.2 and will publish it soon :)
+## Be careful when printing cases. PCB rev 1.1 - 1.3 has new dimensions. Most cases on thingiverse are still for rev 1.0!
 
-The first cases for Rev 1.1 can be found in the wiki (See link below)
+The first cases for Rev 1.1 / 1.2 / 1.3 can be found in the wiki (See link below)
 
 ## This Repo contains all the stuff you need to build your own FreeDeck
 
